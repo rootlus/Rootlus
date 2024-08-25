@@ -6,4 +6,4 @@ A Turkish Youth, learning programming. What else I need to tell? Idk.
 <img src="https://media.tenor.com/mcFk6VXXMHUAAAAi/deltarune-deltarune-chapter2.gif" width="100px" height="90px">
 <br>
 
-<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{worux}/count.svg" alt="worux :: Visitor's Count" />
