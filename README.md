@@ -5,4 +5,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I cool (I not)
 
-<img src="https://media.tenor.com/mcFk6VXXMHUAAAAi/deltarune-deltarune-chapter2.gif" width="100px" height="100px">
+<img src="https://media.tenor.com/mcFk6VXXMHUAAAAi/deltarune-deltarune-chapter2.gif" width="100px" height="90px">
