@@ -1,7 +1,4 @@
 - 👋 Well hello there! I'm @Worux.
-- 👀 I’m interested in Technology
-- 💞️ (I alone.)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I cool (I not)
+A Turkish Youth, learning programming. What else I need to tell? Idk.
 
 <img src="https://media.tenor.com/mcFk6VXXMHUAAAAi/deltarune-deltarune-chapter2.gif" width="100px" height="90px">
