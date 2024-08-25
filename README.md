@@ -5,4 +5,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I cool (I not)
 
-![annoying-dog-undertale](https://github.com/user-attachments/assets/5186e11f-c22d-4a4b-945d-bf43a4d9c063)
+<img src="https://media.tenor.com/2UYGTk1wkEwAAAAi/annoying-dog-undertale.gif" width="50px" height="50px">
