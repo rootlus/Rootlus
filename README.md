@@ -2,6 +2,5 @@
 A Turkish Youth, learning programming. What else I need to tell? Idk.
 
 <br><br><br>
-
-<img src="discord-profile.PNG"> <img src="https://media.tenor.com/mcFk6VXXMHUAAAAi/deltarune-deltarune-chapter2.gif" width="100px" height="90px">
+<img src="https://media.tenor.com/mcFk6VXXMHUAAAAi/deltarune-deltarune-chapter2.gif" width="100px" height="90px">
 <br>
