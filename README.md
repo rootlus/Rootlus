@@ -3,7 +3,7 @@ A Turkish Youth, learning programming. What else I need to tell? Idk.
 
 Discord: siber.tr
 
-<img src="mr.rootlus.png" width="200" height="200">
+<img src="mr.rootlus.png" width="250" height="250">
 
 <br><br><br>
 <img src="https://media.tenor.com/mcFk6VXXMHUAAAAi/deltarune-deltarune-chapter2.gif" width="100px" height="90px">
