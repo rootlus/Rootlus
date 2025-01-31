@@ -1,5 +1,7 @@
 <h2>Well hello there! I'm @Rootlus.</h2> <br>
-A Turkish Youth, helping people about tech.
+Helping people about tech security and privacy.
+
+https://link.siberworld.xyz
 
 <br><br><br>
 
