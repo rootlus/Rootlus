@@ -1,5 +1,5 @@
-<h2>Well hello there! I'm @Worux.</h2> <br>
-A Turkish Youth, learning programming. What else I need to tell? Idk.
+<h2>Well hello there! I'm @Rootlus.</h2> <br>
+A Turkish Youth, helping people about tech.
 
 <br><br><br>
 
